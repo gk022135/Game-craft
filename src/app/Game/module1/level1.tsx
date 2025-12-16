@@ -74,7 +74,7 @@ export default function SQLGameLevel01() {
               <div className="mt-4 bg-white/20 backdrop-blur-sm rounded-xl p-4 relative">
                 <div className="absolute -top-2 left-8 w-4 h-4 bg-white/20 rotate-45" />
                 <p className="text-white text-sm leading-relaxed">
-                  "Query wisely, young apprentice! Master the SQL arts to unlock new levels!"
+                  Query wisely, young apprentice! Master the SQL arts to unlock new levels!
                 </p>
               </div>
             </div>
